@@ -18,4 +18,4 @@ This app is for educational purposes only. Always consult a qualified healthcare
 
 ---
 
-*Built with Emergent and Claude.*
+*Built with Claude.*
